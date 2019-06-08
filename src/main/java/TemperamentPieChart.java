@@ -7,12 +7,12 @@ public class TemperamentPieChart {
 
         //test data start
         String AscendantSign = "SGR";
-        String SunSign = "LIB";
+        String SunSign = "VIR";
         String MoonSign = "LEO";
         String MercurySign = "LIB";
         String VenusSign = "LIB";
         String MarsSign = "SCO";
-        String JupiterSign = "SCO";
+        String JupiterSign = "VIR";
         String SaturnSign = "SCO";
         String UranusSign = "SCO";
         String NeptuneSign = "SCO";
